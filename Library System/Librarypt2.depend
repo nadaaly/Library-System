@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1608418025 source:d:\second year\oop\librarypt2\books.cpp
+	"Books.h"
+	"User.h"
+	<cstring>
+	<iostream>
+
+1608418025 d:\second year\oop\librarypt2\books.h
+	"User.h"
+	<cstring>
+	<iostream>
+
+1608839986 d:\second year\oop\librarypt2\user.h
+	<string>
+	<iostream>
+
+1608840388 source:d:\second year\oop\librarypt2\user.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+
+1608657700 d:\second year\oop\librarypt2\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608858449 source:d:\second year\oop\librarypt2\book.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+
+1608859524 source:d:\second year\oop\librarypt2\booklist.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+
+1608845741 d:\second year\oop\librarypt2\booklist.h
+	"BookList.h"
+	"Book.h"
+
+1608841214 d:\second year\oop\librarypt2\userlist.h
+	"User.h"
+
+1608859073 source:d:\second year\oop\librarypt2\main.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+	<cstring>
+
+1608843868 source:d:\second year\oop\librarypt2\userlist.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+	<cstring>
+
+1608953815 source:e:\fcai\2\1\librarypt2\book.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+
+1608960447 e:\fcai\2\1\librarypt2\booklist.h
+	"BookList.h"
+	"Book.h"
+	"User.h"
+
+1608954542 e:\fcai\2\1\librarypt2\book.h
+	<cstring>
+	<iostream>
+	"User.h"
+
+1608839986 e:\fcai\2\1\librarypt2\user.h
+	<string>
+	<iostream>
+
+1608957423 e:\fcai\2\1\librarypt2\userlist.h
+	"User.h"
+
+1608960735 source:e:\fcai\2\1\librarypt2\booklist.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+
+1608960450 source:e:\fcai\2\1\librarypt2\main.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+	<cstring>
+
+1608955982 source:e:\fcai\2\1\librarypt2\user.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+
+1608957408 source:e:\fcai\2\1\librarypt2\userlist.cpp
+	<iostream>
+	"BookList.h"
+	"UserList.h"
+	"Book.h"
+	"User.h"
+	<cstring>
+
